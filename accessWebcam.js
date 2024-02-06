@@ -1,6 +1,6 @@
 const NodeWebcam = require('node-webcam');
 const fetch = require('node-fetch');
-
+//test ob git funct
 // Create webcam instance
 const Webcam = NodeWebcam.create({
   width: 1280,
