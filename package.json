@@ -1,0 +1,24 @@
+{
+  "name": "captureimage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "accessWebcam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiologe/captureImage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiologe/captureImage/issues"
+  },
+  "homepage": "https://github.com/fabiologe/captureImage#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "node-webcam": "^0.8.2"
+  }
+}
